@@ -17,7 +17,7 @@ const app = express();
 const upload= require('express-fileupload')
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://DylanPorras:1234@ucenfotec.aok0faj.mongodb.net/Proyecto?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb+srv://usuario:contra@dominio.aok0faj.mongodb.net/Proyecto?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
 
 // Permite el uso de JSON como parámetros del POST
 app.use(upload({

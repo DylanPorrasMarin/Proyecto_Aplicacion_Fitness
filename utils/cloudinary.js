@@ -4,9 +4,9 @@ const cloudinary = require('cloudinary').v2
 
 //CUENTA DE CLOUDINARY
 cloudinary.config({
-    cloud_name: 'dsterkdaj',
-    api_key: '465497755199444',
-    api_secret: 'msNRVeQrHc3I39BgPJ1ESy0AEOc',
+    cloud_name: 'name',
+    api_key: 'key',
+    api_secret: 'secret',
     secure: true
 });
 
