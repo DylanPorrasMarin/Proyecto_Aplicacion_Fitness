@@ -15,5 +15,13 @@
     "mongoose": "^6.7.3",
     "nodemon": "^2.0.22"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanPorrasMarin/Proyecto_Aplicacion_Fitness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DylanPorrasMarin/Proyecto_Aplicacion_Fitness/issues"
+  },
+  "homepage": "https://github.com/DylanPorrasMarin/Proyecto_Aplicacion_Fitness#readme",
   "description": ""
 }
